@@ -134,3 +134,7 @@ dmypy.json
 
 # vim stuff
 *.swp
+
+
+# ignore llm data files
+data/*
